@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-f58ab8cb.zappy5.app
+https://example.com
 נתקעתם עם רכב תקול? ירין שירותי דרך מספקים חילוץ מהיר, החלפת מצברים ושירותי גרירה אמינים 24/7. לחצו עכשיו לסיוע מיידי בכל הארץ!
 
 ### שירותים
-https://-f58ab8cb.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי הדרך שלנו: חילוץ מהיר, החלפת מצברים מקצועית וסיוע חירום אמין. ירין שירותי דרך תמיד בכוננות להקפיץ אתכם חזרה לנסיעה תוך דקות.
 
 ### אודות
-https://-f58ab8cb.zappy5.app/about
+https://example.com/about
 מאחורי כל חילוץ עומדת מחויבות אמיתית. בירין שירותי דרך אנחנו מביאים ניסיון, מקצועיות ויחס אישי לכל קריאה. קראו איך הפכנו למובילים בשירותי דרך בישראל.
 
 ### צור קשר
-https://-f58ab8cb.zappy5.app/contact
+https://example.com/contact
 אל תישארו לבד בצד הדרך. צרו קשר עם ירין שירותי דרך עכשיו לקבלת חילוץ מיידי, ייעוץ בנושא מצברים או כל שאלה. אנחנו זמינים 24/7 – חייגו או השאירו פרטים!
 
 ### תודה על פנייתך | ירין שירותי דרך
-https://-f58ab8cb.zappy5.app/thank-you
+https://example.com/thank-you
 ירין שירותי דרך - תודה על פנייתך | ירין שירותי דרך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-f58ab8cb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-f58ab8cb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-f58ab8cb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-f58ab8cb.zappy5.app/about
-- Endpoint: https://-f58ab8cb.zappy5.app/api/email/contact-form
+- URL: https://example.com/about
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Roadside Assistance
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-f58ab8cb.zappy5.app/sitemap.xml
-- Robots: https://-f58ab8cb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-f58ab8cb.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
